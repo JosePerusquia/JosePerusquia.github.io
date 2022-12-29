@@ -18,32 +18,11 @@ div{
     padding:10px;
 }
 
-.div1{
-    font-family:comfortaa;
-    width: 70%;
-    margin: auto;
-    padding:10px;
-}
 
 a{
     font-family:comfortaa;
     color:#3385ff;
     text-decoration: none;
-}
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
-  height: 20%;
-}
-
-.center_text {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
 }
 
 #me{
@@ -53,10 +32,15 @@ a{
     float: right;
 }
 
+#logoUNAM{
+  float: left;
+}
+
 #nameAndLogo{
     margin: auto;
     padding: 10px;
 }
+
 
 .name{
     font-family:comfortaa;
@@ -94,9 +78,15 @@ h2{
 }
 
 p{
+    text-align:justify;
     font-family:comfortaa;
     font-size:14pt;
     line-height: 1.5;
+}
+
+
+ul{
+    text-align:justify;
 }
 
 li{
