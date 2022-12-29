@@ -13,10 +13,10 @@ footer{
 
 div{
     font-family:comfortaa;
-    width: 70%;
+    width: 80%;
     margin: auto;
     padding:10px;
-}
+}	
 
 
 a{
@@ -33,7 +33,7 @@ a{
 }
 
 #logoUNAM{
-  float: left;
+    float: left;
 }
 
 #nameAndLogo{
@@ -84,9 +84,19 @@ p{
     line-height: 1.5;
 }
 
+.p1{
+    text-align:justify;
+    font-family:comfortaa;
+    font-size:14pt;
+    line-height: 1.5;
+    width:65%;
+}
+
 
 ul{
     text-align:justify;
+    justify-content:space-between; 
+
 }
 
 li{
