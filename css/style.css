@@ -26,6 +26,11 @@ div{
     	padding:10px;
 }	
 
+.navBar{
+	font-family:comfortaa;
+    	width: 80%;
+    	margin: auto;
+}
 
 a{
     	font-family:comfortaa;
@@ -138,4 +143,10 @@ hr {
     	border-bottom: 1px solid #D3D3D3;
     	box-shadow: 0 15px 15px -15px #D3D3D3;
     	margin: -50px auto 10px;
+}
+
+nav{
+	word-spacing: 10px;
+	display:block;
+	margin:auto;
 }
