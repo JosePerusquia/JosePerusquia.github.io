@@ -1,9 +1,11 @@
 body{
-	background-image:url('../images/bg.jpeg');
+	background-image:url('../images/bg2.jpeg');
 	height: 100%;
+	/*
 	background-position: center;
   	background-repeat: no-repeat;
   	background-size: cover;
+	*/
 }
 
 @font-face{
@@ -150,7 +152,11 @@ hr {
 }
 
 nav{
-	word-spacing: 10px;
+	word-spacing: 15px;
 	display:block;
 	margin:auto;
+}
+
+nav>a{
+	word-spacing:0px !important;
 }
