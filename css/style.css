@@ -19,6 +19,10 @@ footer{
     	padding:10px;
 }
 
+header{
+	width: 80%;
+}
+
 div{
     	font-family:comfortaa;
     	width: 80%;
