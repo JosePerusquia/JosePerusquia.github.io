@@ -57,12 +57,18 @@ nav>a:active{
 	  border: 1px dotted #000000;
 }
 
-
+.entry-content img { border: #00008B 4px solid; }
 
 #me{
-    width: 30%;
-    padding-left: 15px;
-    margin-left: 15px;
+    width: 20%;
+    padding-left: 0px;
+    margin-left: 10px;
+    padding-right: 0px;
+    margin-right: 10px;
+    padding-top: 0px;
+    margin-top: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     float: right;
 }
 
@@ -159,4 +165,8 @@ nav{
 
 nav>a{
 	  word-spacing:0px !important;
+}
+
+p.solid{
+	border-style: solid;
 }
