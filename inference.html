@@ -186,7 +186,24 @@ El temario completo se puede revisar <a href="recursos/inferencia/temarioCurso.p
   </h2>
 
 	<p>
-		<a href="recursos/inferencia/datos/cucos.txt" target="blank_">cucos.txt</a>
+		<a href="recursos/inferencia/datos/AlumnosInferencia.xlsx" target="blank_" download='AlumnosInferencia.xlsx'>AlumnosInferencia.xlsx</a>
+
+		<button onclick="downloadFile()">Download</button>
+
+		<script>
+  			function downloadFile() {
+    			const link = document.createElement('a');
+    			link.href = 'recursos/inferencia/datos/AlumnosInferencia.xlsx'; 
+    			link.download = 'AlumnosInferencia.xlsx';
+    			document.body.appendChild(link);
+    			link.click();
+    			document.body.removeChild(link);
+  			}
+		</script>
+	</p>
+
+	<p>
+		<a href="recursos/inferencia/datos/cucos.txt" target="blank_" download='cucos.txt'>cucos.txt</a>
 		<button onclick="downloadFile()">Download</button>
 
 		<script>
