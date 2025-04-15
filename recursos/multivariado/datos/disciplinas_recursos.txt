@@ -1,0 +1,11 @@
+Disciplina\Recursos	A	B	C	D	E
+Geología	3	19	39	14	10
+Bioquímica	1	2	13	1	12
+Química	6	25	49	21	29
+Zoología	3	15	41	35	26
+Física	10	22	47	9	26
+Ingeniería	3	11	25	15	34
+Microbiología	1	6	14	5	11
+Botánica	0	12	34	17	23
+Estadística	2	5	11	4	7
+Matemáticas	2	11	37	8	20
