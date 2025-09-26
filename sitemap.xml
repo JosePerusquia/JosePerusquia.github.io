@@ -51,5 +51,12 @@
 		<changefreq> monthly </changefreq>
 	</url>
 
+	<url>
+  		<loc> https://joseperusquia.github.io/research.html </loc>
+  		<lastmod> 2025-09-26 </lastmod>
+  		<priority> 0.80 </priority>
+		<changefreq> monthly </changefreq>
+	</url>
+
 
 </urlset>
