@@ -1,0 +1,21 @@
+Position	Team	P	G	W	D	L	GF	GA	GD	Class
+1	Real Madrid C. F.	95	38	29	8	1	87	26	61	CL
+2	F. C. Barcelona	85	38	26	7	5	79	44	35	CL
+3	Girona F. C.	81	38	25	6	7	85	46	39	CL
+4	Atlético de Madrid	76	38	24	4	10	70	43	27	CL
+5	Athletic Club	68	38	19	11	8	61	37	24	EL
+6	Real Sociedad	60	38	16	12	10	51	39	12	EL
+7	Real Betis Balompié	57	38	14	15	9	48	45	3	CoL
+8	Villarreal C. F.	53	38	14	11	13	65	65	0	N
+9	Valencia C. F.	49	38	13	10	15	40	45	-5	N
+10	Deportivo Alavés	46	38	12	10	16	36	46	-10	N
+11	C. A. Osasuna	45	38	12	9	17	45	56	-11	N
+12	Getafe C. F.	43	38	10	13	15	42	54	-12	N
+13	R. C. Celta de Vigo	41	38	10	11	17	46	57	-11	N
+14	Sevilla F. C.	41	38	10	11	17	48	54	-6	N
+15	R. C. D. Mallorca	40	38	8	16	14	33	44	-11	N
+16	U. D. Las Palmas	40	38	10	10	18	33	47	-14	N
+17	Rayo Vallecano	38	38	8	14	16	29	48	-19	N
+18	Cádiz C. F.	33	38	6	15	17	26	55	-29	Rel
+19	U. D. Almería	21	38	3	12	23	43	75	-32	Rel
+20	Granada C. F.	21	38	4	9	25	38	79	-41	Rel
